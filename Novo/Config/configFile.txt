@@ -1,0 +1,6 @@
+maxTokens:5
+maxTime:60
+size of segments in WAL:300
+size of Memtable:170
+number of levels in LSM:3
+number of elements in Cache:5
